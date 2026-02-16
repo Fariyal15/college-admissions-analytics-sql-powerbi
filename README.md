@@ -5,6 +5,10 @@ This project demonstrates an end-to-end data analytics workflow using SQL for da
 
 The dashboard analyzes college applications, acceptance rates, GPA distribution, and admissions performance across colleges and majors.
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](dashboard_preview.png)
+
 ---
 
 ## 🛠 Tools & Technologies
